@@ -28,4 +28,4 @@ Build from source with "Keyboard Layout Creator 1.4" (https://www.microsoft.com/
 Or:
 Download the "itlinux" folder and execute setup.exe to install
 This method is tested to work on Windows 10, and the keyboard work just fine.
-If it seems not to work check that this layout keyboard is selected in the 
+If it seems not to work check that this layout keyboard is selected in the settings
