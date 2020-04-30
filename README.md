@@ -32,7 +32,7 @@ This layout integrates some characters that are missing in the current italian k
                                
                                pressing AltGr+Shift+j » ̛
 
-## Installation 1
+## Installation
 
 Build from source with "Keyboard Layout Creator 1.4" (https://www.microsoft.com/en-us/download/details.aspx?id=22339) using itlinux.klc file from "klc file" folder.
 
