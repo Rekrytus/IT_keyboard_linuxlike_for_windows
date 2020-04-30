@@ -22,7 +22,9 @@ This layout integrates some characters that are missing in the current italian k
 ### linux keyboard
 ![Linux_keyboard_Layout](https://raw.githubusercontent.com/Rekrytus/IT_keyboard_linuxlike_for_windows/master/pictures/linux_keyboard.png)
 
-*in the image instead of "..." pressing AltGr+q » @
+*in the image instead of "..." 
+                               
+                               pressing AltGr+q » @
 
                                pressing AltGr+ò » @
                                
