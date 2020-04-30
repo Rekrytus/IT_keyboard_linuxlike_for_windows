@@ -23,21 +23,28 @@ This layout integrates some characters that are missing in the current italian k
 ![Linux_keyboard_Layout](https://raw.githubusercontent.com/Rekrytus/IT_keyboard_linuxlike_for_windows/master/pictures/linux_keyboard.png)
 
 *in the image instead of "..." pressing AltGr+q » @
+
                                pressing AltGr+ò » @
+                               
                                pressing AltGr+j » ̉
+                               
                                pressing AltGr+Shift+j » ̛
 
-## Installation
+## Installation 1
 
 Build from source with "Keyboard Layout Creator 1.4" (https://www.microsoft.com/en-us/download/details.aspx?id=22339) using itlinux.klc file from "klc file" folder.
 
-Or:
+## If you don't want to build it yourself: 
 
 Download the "itlinux" folder and execute setup.exe to install.
 
 This method is tested to work on Windows 10, and the keyboard work just fine.
 
-If it seems not to work check that this layout keyboard is selected:
+
+
+## If it seems not to work
+
+Check that this layout keyboard is selected:
 
 settings » Time&Language » Language » Choose an input method to always use as default » select the italian(italy)-itlinux or italian(italy)-layout01description
 
