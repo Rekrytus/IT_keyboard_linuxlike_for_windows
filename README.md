@@ -1,7 +1,7 @@
 ITLinux
 =======
 
-An italian Windows keyboard with the same keyboard layout from linux.
+An italian Windows keyboard with the same keyboard layout from linux.¬
 This layout integrates some characters that are missing in the current italian keyboard layout of Windows such "~" etc...
 
 ## Pictures
@@ -19,7 +19,7 @@ This layout integrates some characters that are missing in the current italian k
 ![AltGr+Shift](https://raw.githubusercontent.com/Rekrytus/IT_keyboard_linuxlike_for_windows/master/pictures/4.PNG)
 
 ### linux keyboard
-![Linux keyboard Layout](https://raw.githubusercontent.com/Rekrytus/IT_keyboard_linuxlike_for_windows/master/pictures/linux_keyboard.png)
+![Linux keyboard Layout]
 
 ## Installation
 
