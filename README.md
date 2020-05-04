@@ -40,7 +40,7 @@ Build from source with "Keyboard Layout Creator 1.4" (https://www.microsoft.com/
 
 Download the "itlinux" folder and execute setup.exe to install.
 
-This method is tested to work on Windows 10, and the keyboard work just fine.
+This method is tested to work on Windows 10, and the keyboard works just fine.
 
 
 
